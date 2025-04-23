@@ -1,3 +1,4 @@
+.gitignore
 .venv
 Forecasting Sticker Sales\sample_submission.csv
 Forecasting Sticker Sales\submission.csv
